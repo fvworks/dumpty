@@ -1,6 +1,5 @@
-# Humpty Dumpty VR
 
-![Landscape](Landscape.png)
+![Dumpty](Landscape.png)
 
 The classic Humpty Dumpty is coming to VR!
 Inspired by the original story of the Alice in Wonderland, 
